@@ -1,0 +1,29 @@
+24-12-29 14:06:49.647 : Model path: model_results\DBFE_color.pth
+24-12-29 14:06:49.648 : Params number: 3629766
+24-12-29 14:06:49.648 : model_name:DBFE_color, model sigma:15, image sigma:15
+24-12-29 14:06:49.648 : testsets\Kodak24
+24-12-29 14:06:52.477 : kodim01.png - PSNR: 32.48 dB; SSIM: 0.9274.
+24-12-29 14:06:53.229 : kodim02.png - PSNR: 35.30 dB; SSIM: 0.8987.
+24-12-29 14:06:53.978 : kodim03.png - PSNR: 38.23 dB; SSIM: 0.9483.
+24-12-29 14:06:54.746 : kodim04.png - PSNR: 35.88 dB; SSIM: 0.9046.
+24-12-29 14:06:55.496 : kodim05.png - PSNR: 33.60 dB; SSIM: 0.9538.
+24-12-29 14:06:56.259 : kodim06.png - PSNR: 33.93 dB; SSIM: 0.9229.
+24-12-29 14:06:57.008 : kodim07.png - PSNR: 37.55 dB; SSIM: 0.9638.
+24-12-29 14:06:57.766 : kodim08.png - PSNR: 33.40 dB; SSIM: 0.9471.
+24-12-29 14:06:58.516 : kodim09.png - PSNR: 37.55 dB; SSIM: 0.9354.
+24-12-29 14:06:59.267 : kodim10.png - PSNR: 37.42 dB; SSIM: 0.9344.
+24-12-29 14:07:00.018 : kodim11.png - PSNR: 34.13 dB; SSIM: 0.9177.
+24-12-29 14:07:00.768 : kodim12.png - PSNR: 36.15 dB; SSIM: 0.9112.
+24-12-29 14:07:01.518 : kodim13.png - PSNR: 31.33 dB; SSIM: 0.9220.
+24-12-29 14:07:02.270 : kodim14.png - PSNR: 33.33 dB; SSIM: 0.9179.
+24-12-29 14:07:03.029 : kodim15.png - PSNR: 34.89 dB; SSIM: 0.9026.
+24-12-29 14:07:03.780 : kodim16.png - PSNR: 35.31 dB; SSIM: 0.9199.
+24-12-29 14:07:04.531 : kodim17.png - PSNR: 35.29 dB; SSIM: 0.9205.
+24-12-29 14:07:05.281 : kodim18.png - PSNR: 33.30 dB; SSIM: 0.9138.
+24-12-29 14:07:06.032 : kodim19.png - PSNR: 35.21 dB; SSIM: 0.9346.
+24-12-29 14:07:06.781 : kodim20.png - PSNR: 36.83 dB; SSIM: 0.9412.
+24-12-29 14:07:07.531 : kodim21.png - PSNR: 34.30 dB; SSIM: 0.9296.
+24-12-29 14:07:08.282 : kodim22.png - PSNR: 34.35 dB; SSIM: 0.9049.
+24-12-29 14:07:09.042 : kodim23.png - PSNR: 37.21 dB; SSIM: 0.9370.
+24-12-29 14:07:09.792 : kodim24.png - PSNR: 34.60 dB; SSIM: 0.9386.
+24-12-29 14:07:09.799 : Average PSNR/SSIM(RGB) - Kodak24_dn_DBFE_color_15 - PSNR: 35.07 dB; SSIM: 0.9270
