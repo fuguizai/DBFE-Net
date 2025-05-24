@@ -1,0 +1,17 @@
+24-12-29 14:51:27.394 : Model path: model_results\DBFE_gray.pth
+24-12-29 14:51:27.394 : Params number: 3625014
+24-12-29 14:51:27.394 : model_name:DBFE_gray, model sigma:25, image sigma:25
+24-12-29 14:51:27.394 : testsets_gray\Set12
+24-12-29 14:51:29.885 : Airpl..png - PSNR: 29.27 dB; SSIM: 0.8735.
+24-12-29 14:51:30.906 : Barbara.png - PSNR: 30.69 dB; SSIM: 0.8950.
+24-12-29 14:51:31.927 : Boat.png - PSNR: 30.51 dB; SSIM: 0.8221.
+24-12-29 14:51:32.296 : C.man.png - PSNR: 30.38 dB; SSIM: 0.8776.
+24-12-29 14:51:33.316 : Couple.png - PSNR: 30.43 dB; SSIM: 0.8424.
+24-12-29 14:51:33.686 : House.png - PSNR: 33.67 dB; SSIM: 0.8673.
+24-12-29 14:51:34.707 : Lena.png - PSNR: 32.84 dB; SSIM: 0.8797.
+24-12-29 14:51:35.729 : Man.png - PSNR: 30.21 dB; SSIM: 0.8271.
+24-12-29 14:51:36.100 : Monar..png - PSNR: 30.70 dB; SSIM: 0.9262.
+24-12-29 14:51:36.468 : Parrot.png - PSNR: 29.57 dB; SSIM: 0.8649.
+24-12-29 14:51:36.836 : Peppers.png - PSNR: 31.02 dB; SSIM: 0.8836.
+24-12-29 14:51:37.206 : Starfish.png - PSNR: 29.55 dB; SSIM: 0.8707.
+24-12-29 14:51:37.207 : Average PSNR/SSIM(RGB) - Set12_dn_DBFE_gray_25 - PSNR: 30.74 dB; SSIM: 0.8692
